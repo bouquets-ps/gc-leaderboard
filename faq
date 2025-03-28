@@ -196,7 +196,7 @@ button {
 <tr><td style="background: linear-gradient(#a670db , #732eb8)">Purple</td><td>5%</td><td>100 to 400</td></tr>
 <tr><td style="background: linear-gradient(#7070db , #2e2eb8)">Blue</td><td>10%</td><td>200 to 500</td></tr>
 <tr><td style="background: linear-gradient(#70db70 , #2eb82e)">Green</td><td>20%</td><td>300 to 600</td></tr>
-<tr><td style="background: linear-gradient(#dbdb70 , #b8b72e)">Yellow</td><td>35%</td><td>400 to 700</td></tr>
+<tr><td style="background: linear-gradient(#dba670 , #b8732e)">Orange</td><td>35%</td><td>400 to 700</td></tr>
 <tr><td style="background: linear-gradient(#db7070 , #b82e2e)">Red</td><td>50%</td><td>500 to 800</td></tr>
 </table>
 <br>Golden Magikarp can randomly appear on any wheel to award 1000 points.
