@@ -193,14 +193,14 @@ button {
 <b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">How many points can I earn from each wheel?</strong></b>
 <br><br><table border="2" cellpadding="5">
 <tr><td style="width: 250px"><b>Wheel</b></td><td><b>Elimination Chance</b></td><td><b>Points</b></td></tr>
-<tr><td>Purple</td><td>5%</td><td>100 to 400</td></tr>
-<tr><td>Blue</td><td>10%</td><td>200 to 500</td></tr>
-<tr><td>Green</td><td>20%</td><td>300 to 600</td></tr>
-<tr><td>Yellow</td><td>35%</td><td>400 to 700</td></tr>
-<tr><td>Red</td><td>50%</td><td>500 to 800</td></tr>
+<tr><td style="background: linear-gradient(#a670db , #732eb8)">Purple</td><td>5%</td><td>100 to 400</td></tr>
+<tr><td style="background: linear-gradient(#7070db , #2e2eb8)">Blue</td><td>10%</td><td>200 to 500</td></tr>
+<tr><td style="background: linear-gradient(#70db70 , #2eb82e)">Green</td><td>20%</td><td>300 to 600</td></tr>
+<tr><td style="background: linear-gradient(#dbdb70 , #b8b72e)">Yellow</td><td>35%</td><td>400 to 700</td></tr>
+<tr><td style="background: linear-gradient(#db7070 , #b82e2e)">Red</td><td>50%</td><td>500 to 800</td></tr>
 </table>
-<br>Golden Magikarp can randomly appear at any wheel for 1000 points.
-<br>Only points earned from the first 19 rounds count towards your high score considering that it's not always possible to find out how many points you have earned after swimming on round 20.
+<br>Golden Magikarp can randomly appear on any wheel for 1000 points.
+<br>Only points earned from the first 19 rounds count towards your high score. This is because it's not always possible to find out how many points you have earned after swimming on round 20.
 </td></tr></table><br><br></span>
 
 <span class="infobox"><table><tr><td>
