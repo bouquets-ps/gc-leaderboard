@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html data-theme="light">
 <head>
-<title>PS! Game Corner Magikarp's Records - FAQ</title>
+<title>PS! Game Corner Magikarp's Leaderboard - FAQ</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
 <script>
 function calculateSettingAsThemeString({ localStorageTheme, systemSettingDark }) {
@@ -158,9 +158,9 @@ button {
 </head>
 <body>
 <center>
-<h1><table><tr><td>PS! Game Corner Magikarp's Records</td></tr></table></h1>
+<h1><table><tr><td>PS! Game Corner Magikarp's Leaderboard</td></tr></table></h1>
 <h3><span style="letter-spacing:5px;"><table><tr>
-<td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-records/blob/main/high-scores">HIGH&nbsp;SCORES</td>
+<td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-leaderboard/blob/main/high-scores">HIGH&nbsp;SCORES</td>
 <td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://forms.gle/44fTQcviaFNMcX6k7">SUBMIT</a></td>
 <td style="width: 50px"></td><td>FAQ</td>
 </tr></table></span></h3>
@@ -185,8 +185,8 @@ button {
 <div id = "container">
 
 <span class="infobox"><table><tr><td>
-<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">How often do the records get updated?</strong></b>
-<br><br>The records usually get updated when its owner reviews user submissions.
+<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">How often does the leaderboard get updated?</strong></b>
+<br><br>The leaderboard usually gets updated when its owner reviews user submissions.
 </td></tr></table><br><br></span>
 
 <span class="infobox"><table><tr><td>
@@ -199,7 +199,7 @@ button {
 <tr><td style="background: linear-gradient(#dbdb70 , #b8b72e)">Yellow</td><td>35%</td><td>400 to 700</td></tr>
 <tr><td style="background: linear-gradient(#db7070 , #b82e2e)">Red</td><td>50%</td><td>500 to 800</td></tr>
 </table>
-<br>Golden Magikarp can randomly appear on any wheel for 1000 points.
+<br>Golden Magikarp can randomly appear on any wheel to award 1000 points.
 <br>Only points earned from the first 19 rounds count towards your high score. This is because it's not always possible to find out how many points you have earned after swimming on round 20.
 </td></tr></table><br><br></span>
 
