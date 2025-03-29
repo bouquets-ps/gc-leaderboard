@@ -190,7 +190,7 @@ button {
 </td></tr></table><br><br></span>
 
 <span class="infobox"><table><tr><td>
-<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">How many points do each wheel award?</strong></b>
+<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">How many points does each wheel award?</strong></b>
 <br><br><table border="2" style="text-align: center" cellpadding="5">
 <tr><td><b>Wheel</b></td><td><b>Elimination Chance</b></td><td><b>Points</b></td></tr>
 <tr><td style="background: linear-gradient(#a670db , #732eb8)">Purple</td><td>5%</td><td>100 to 400</td></tr>
